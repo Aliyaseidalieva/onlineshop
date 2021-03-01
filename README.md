@@ -8,7 +8,7 @@
 
 python3 -m venv env
 source env/bin/activate
-Перейти в директорию onlineshopwithtemplates
+Перейти в директорию onlineshop
 
 pip install -r req.txt
 python manage.py makemigrations
